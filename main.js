@@ -31,4 +31,3 @@ app.post('/',function(req,res){
 app.listen('7000',function(){
     console.log('listening to port 7000')
 })
-module.exports = app
